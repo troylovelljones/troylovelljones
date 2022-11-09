@@ -25,6 +25,9 @@ I have experience leading and coaching large co-located and virtual cross functi
 - Cloud Native, Microservice Architectural Patterns, SOA, SaaS
 - Git, GitHub, Jira, Rally, VSTS, VersionOne
 
+<br>
+<br>
+
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
