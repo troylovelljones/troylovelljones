@@ -10,6 +10,8 @@ I'm an Agile coach and professional Scrum Master (PSM I&II) trained to apply Agi
 
 I have experience leading and coaching large co-located and virtual cross functional (QA and Dev) software development teams of 30+ Developers, Agile leaders & QA professionals.
 
+#
+
 #### Specific Areas of Expertise
 
 #### <em>Leadership</em>
