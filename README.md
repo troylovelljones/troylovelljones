@@ -51,10 +51,6 @@ Within the month, I expect to have a fully functional app running at https://you
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/python.svg">
-<img width="70px" 
-    height="70px" 
-    style="margin: 10px"
     src="./assets/react.svg">
 <img width="70px" 
     height="70px" 
