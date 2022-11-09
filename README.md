@@ -21,7 +21,7 @@ I have experience leading and coaching large co-located and virtual cross functi
 #### <em>Technical</em></h5>
 - Java, JavaScript, HTML, CSS, Object Pascal, C++
 - SQLServer, Oracle, PostgreSQL, MongoDB
-- NodeJS, Express, ReactJS, Spring Boot, REST API 
+- NodeJS, Express, ReactJS, Spring Boot, REST APIs 
 - Cloud Native, Microservice Architectural Patterns, SOA, SaaS
 - Git, GitHub, Jira, Rally, VSTS, VersionOne
 
