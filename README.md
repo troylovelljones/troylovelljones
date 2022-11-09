@@ -34,4 +34,4 @@ I'm building a web app targeted at teenage boys and girls that allows them to...
 - Value a sneaker in his/her collection based on the current market demand for that sneaker.
 - Share his/her virtual sneaker with friends.
 
-Within the month, I expect to have a fully functional site up and running at https://yoursneakercollection.com.  In the meantime there is a placeholder website which describes the genesis of the idea and demos the expected UI design language for the live version.
+Within the month, I expect to have a fully functional app running at https://yoursneakercollection.com.  In the meantime, there is a placeholder website which describes the genesis of the idea and demos the expected UI design language of the live version.
