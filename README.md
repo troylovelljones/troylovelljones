@@ -8,7 +8,7 @@ I am an accomplished technology leader who has helped software development teams
 
 I'm an Agile coach and professional Scrum Master (PSM I & II) trained to apply Agile/Scrum practices to manage software deliverables and measure team efficiency for continuous improvement.
 
-I have experience leading and coaching large co-located and virtual cross functional (QA and Dev) software development teams of 30+ Developers, Agile leaders & QA professionals.
+I have experience leading and coaching large co-located and virtual cross functional software development teams of 30+ Developers, Agile leaders & QA professionals.
 
 #
 
