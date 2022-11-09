@@ -25,17 +25,6 @@ I have experience leading and coaching large co-located and virtual cross functi
 - Cloud Native, Microservice Architectural Patterns, SOA, SaaS
 - Git, GitHub, Jira, Rally, VSTS, VersionOne
 
-#
-<h3>While you're here, take a peek at my <em><a href="https://github.com/troylovelljones/SneakersApp">Sneakers App</em> Github repository.</a></h3>
-
-I'm building a web app targeted at teenage boys and girls that allows them to...
-- Arrange a virtual closet of sneakers chosen from a vast database of sneaker styles.
-- Research the current price of a sneaker as listed on StockX, Goat, FlightClub).
-- Value a sneaker in his/her collection based on the current market demand for that sneaker.
-- Share his/her virtual sneaker with friends.
-
-Within the month, I expect to have a fully functional app running at https://yoursneakercollection.com.  In the meantime, there is a placeholder website which describes the genesis of the idea and demos the expected UI design language of the live version.
-
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
@@ -56,3 +45,14 @@ Within the month, I expect to have a fully functional app running at https://you
     height="70px" 
     style="margin: 10px"
     src="./assets/node.svg">
+
+#
+<h3>While you're here, take a peek at my <em><a href="https://github.com/troylovelljones/SneakersApp">Sneakers App</em> Github repository.</a></h3>
+
+I'm building a web app targeted at teenage boys and girls that allows them to...
+- Arrange a virtual closet of sneakers chosen from a vast database of sneaker styles.
+- Research the current price of a sneaker as listed on StockX, Goat, FlightClub).
+- Value a sneaker in his/her collection based on the current market demand for that sneaker.
+- Share his/her virtual sneaker with friends.
+
+Within the month, I expect to have a fully functional app running at https://yoursneakercollection.com.  In the meantime, there is a placeholder website which describes the genesis of the idea and demos the expected UI design language of the live version.
